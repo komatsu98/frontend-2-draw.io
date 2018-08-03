@@ -8,8 +8,8 @@ Thực hiện bởi [Hồ Anh Tiến](https://github.com/komatsu98)
 
 ## Liên kết
 
-- [html1](https://komatsu98.github.io/frontend-2-draw.io/html1)
-- [html2](https://komatsu98.github.io/frontend-2-draw.io/html2)
+- [html1](https://drive.google.com/open?id=1PkhLA3Y2_24UPCNzpWd-PW82x6f4DeqY)
+- [html2]()
 
 ## Kiến thức nắm được
 
