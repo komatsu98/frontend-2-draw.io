@@ -9,7 +9,7 @@ Thực hiện bởi [Hồ Anh Tiến](https://github.com/komatsu98)
 ## Liên kết
 
 - [html1](https://drive.google.com/open?id=1PkhLA3Y2_24UPCNzpWd-PW82x6f4DeqY)
-- [html2]()
+- [html2](https://drive.google.com/open?id=1wehx6M-QYckw6FrpEKGQnrKzoliWBWUl)
 
 ## Kiến thức nắm được
 
